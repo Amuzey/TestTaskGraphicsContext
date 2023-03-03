@@ -13,6 +13,7 @@
 		8A8F096929B03DA900E999AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A8F096729B03DA900E999AD /* Main.storyboard */; };
 		8A8F096B29B03DAC00E999AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A8F096A29B03DAC00E999AD /* Assets.xcassets */; };
 		8A8F096E29B03DAC00E999AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A8F096C29B03DAC00E999AD /* LaunchScreen.storyboard */; };
+		8A8F097629B1C63000E999AD /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8F097529B1C63000E999AD /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8A8F096A29B03DAC00E999AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A8F096D29B03DAC00E999AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A8F096F29B03DAC00E999AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A8F097529B1C63000E999AD /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8A8F096129B03DA900E999AD /* AppDelegate.swift */,
 				8A8F096329B03DA900E999AD /* SceneDelegate.swift */,
 				8A8F096529B03DA900E999AD /* ViewController.swift */,
+				8A8F097529B1C63000E999AD /* CircleView.swift */,
 				8A8F096729B03DA900E999AD /* Main.storyboard */,
 				8A8F096A29B03DAC00E999AD /* Assets.xcassets */,
 				8A8F096C29B03DAC00E999AD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A8F097629B1C63000E999AD /* CircleView.swift in Sources */,
 				8A8F096629B03DA900E999AD /* ViewController.swift in Sources */,
 				8A8F096229B03DA900E999AD /* AppDelegate.swift in Sources */,
 				8A8F096429B03DA900E999AD /* SceneDelegate.swift in Sources */,
